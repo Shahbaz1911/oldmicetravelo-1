@@ -130,7 +130,7 @@
 						</li>
 						
                         <li><a href="happy.php">Happy Customers</a></li>	
-						<li><a href="#">Payment</a></li>						
+						<li><a href="checkout-payment.php">Payment</a></li>						
 					    <li><a href="contact.php">Contact</a></li>
 						<li class="menu-right">
 							<ul>
@@ -573,7 +573,7 @@
 					</div>
 					<div class="wrapper-tours-slider wrapper-tours-type-slider">
 						<div class="tours-type-slider" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5}}'>
-							<div class="tours_type_item">
+							<div class="tours_type_item ">
 								<a href="himachal/himachal.php" class="tours-type__item__image">
 									<img src="images/city/himachal.jpg" alt="Himachal">
 								</a>
@@ -624,6 +624,7 @@
 							
 						</div>
 					</div>
+					
 				</div>
 			</div>
 			<div class="padding-top-6x padding-bottom-6x bg__shadow section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
