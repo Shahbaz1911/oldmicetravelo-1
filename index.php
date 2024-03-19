@@ -338,11 +338,11 @@
 				</div>
 			</div>
 
-	<!-- <div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
+	<div class="padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-popular.jpg)">
 				<div class="container">
 					<div class="shortcode_title text-white title-center title-decoration-bottom-center">
 						<div class="title_subtitle">TAKE A LOOK AT OUR</div>
-						<h3 class="title_primary">MOST POPULAR TOURS</h3>
+						<h3 class="title_primary">UPCOMING POPULAR TOURS</h3>
 						<span class="line_after_title" style="color:#ffffff"></span>
 					</div>
 					<div class="row wrapper-tours-slider">
@@ -353,7 +353,7 @@
 										<div class="post_images">
 											<a href="himachal/3n-5d-him.php" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 11,000 PP</span>
+												<span class="travel_tour-Price-amount amount">INR 17,950 PP</span>
 											</span>
 												<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
 											</a>
@@ -366,10 +366,10 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="himachal/3n-5d-him.php" rel="bookmark">Himachal Pradesh</a>
+												<a href="himachal/3n-5d-him.php" rel="bookmark">Magical Kashmir</a>
 											</h4></div>
-											<span class="post_date">3 NIGHTS 5 DAYS Volvo</span>
-											<p>Manali (3 Nights)<br><br><br> </p>
+											<span class="post_date">04 NIGHTS / 05 DAYS</span>
+											<p>Srinagar (4 Nights)<br><br><br> </p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -387,12 +387,12 @@
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
-											<a href="himachal/5n-6d-him.php" class="travel_tour-LoopProduct-link">
+											<a href="https://www.canva.com/design/DAF_79OyZZ4/kxCjL44FC_rza-xM4hl3Nw/edit?utm_content=DAF_79OyZZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<ins><span class="travel_tour-Price-amount amount">INR 15,000 PP</span></ins>
+												<ins><span class="travel_tour-Price-amount amount">INR 18,200 PP</span></ins>
 											</span>
 												<span class="onsale">Sale!</span>
-												<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
+												<img src="images/tour/ayodhya/ayodhya.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -403,17 +403,17 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="himachal/5n-6d-him.php" rel="bookmark">Himachal Pradesh</a>
+												<a href="https://www.canva.com/design/DAF_79OyZZ4/kxCjL44FC_rza-xM4hl3Nw/edit?utm_content=DAF_79OyZZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="bookmark"> Varanasi  Allahabad Ayodhya </a>
 											</h4></div>
-											<span class="post_date">5 NIGHTS 6 DAYS </span>
-											<p>Shimla (2 Nights) - Manali (3 Nights)<br><br><br></p>
+											<span class="post_date">3 NIGHTS 4 DAYS </span>
+											<p> Varanasi (2 Nights) - Ayodhya (1 Night) <br><br><br></p>
 										</div>
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
-										<a href="himachal/5n-6d-him.php" class="read_more_button">VIEW MORE
+										<a href="https://www.canva.com/design/DAF_79OyZZ4/kxCjL44FC_rza-xM4hl3Nw/edit?utm_content=DAF_79OyZZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="read_more_button">VIEW MORE
 											<i class="fa fa-long-arrow-right"></i></a>
 										<div class="clear"></div>
 									</div>
@@ -438,7 +438,7 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="himachal/7n-8d-him.php" rel="bookmark">Himachal Pradesh</a>
+												<a href="himachal/7n-8d-him.php" rel="bookmark"></a>
 											</h4></div>
 											<span class="post_date">7 NIGHTS 8 DAYS</span>
 											<p>Shimla (2 Nights) -  Manali (2 Nights) -  Dharmshala (1 Night)  -  Dalhousie (1 Night) -  Amritsar (1 Night)</p>
@@ -564,7 +564,7 @@
 						</div>
 					</div>
 				</div>
-			</div> -->
+			</div>
 			<div class="section-white padding-top-6x padding-bottom-6x tours-type">
 				<div class="container">
 					<div class="shortcode_title title-center title-decoration-bottom-center">
