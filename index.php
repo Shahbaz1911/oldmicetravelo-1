@@ -347,41 +347,6 @@
 					</div>
 					<div class="row wrapper-tours-slider">
 						<div class="tours-type-slider list_content" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":2}, "992":{"items":3}, "1200":{"items":4}}'>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="himachal/3n-5d-him.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 17,950 PP</span>
-											</span>
-												<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Private Cab"><i class="flaticon-cart-1"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Meals"><i class="flaticon-food"></i></a>
-											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Sightseeing"><i class="flaticon-eye"></i></a>											
-										     </div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="himachal/3n-5d-him.php" rel="bookmark">Magical Kashmir</a>
-											</h4></div>
-											<span class="post_date">04 NIGHTS / 05 DAYS</span>
-											<p>Srinagar (4 Nights)<br><br><br> </p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="himachal/3n-5d-him.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>					
 							
 							<div class="item-tour">
 								<div class="item_border">
@@ -392,7 +357,7 @@
 												<ins><span class="travel_tour-Price-amount amount">INR 18,200 PP</span></ins>
 											</span>
 												<span class="onsale">Sale!</span>
-												<img src="images/tour/ayodhya/ayodhya.png" alt="" title="">
+												<img src="images/tour/ayodhya/ayodhya-1.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -406,7 +371,10 @@
 												<a href="https://www.canva.com/design/DAF_79OyZZ4/kxCjL44FC_rza-xM4hl3Nw/edit?utm_content=DAF_79OyZZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="bookmark"> Varanasi  Allahabad Ayodhya </a>
 											</h4></div>
 											<span class="post_date">3 NIGHTS 4 DAYS </span>
-											<p> Varanasi (2 Nights) - Ayodhya (1 Night) <br><br><br></p>
+											<span class="post_time"><strong> Date : 2 May 2024</strong> </span>
+
+
+											<p>  <br><br><br></p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -423,11 +391,11 @@
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
-											<a href="himachal/7n-8d-him.php" class="travel_tour-LoopProduct-link">
+											<a href="https://www.canva.com/design/DAF_8CDCM0k/J8g2MFeueInm1FsvT_dHeA/edit?utm_content=DAF_8CDCM0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 18,500 PP</span>
+												<span class="travel_tour-Price-amount amount">INR 26,500 PP</span>
 											</span>
-												<img src="images//tour/430x305/tour-2.jpg" alt="" title="">
+												<img src="images//tour/malikarjun/malikarjun-1.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -438,17 +406,19 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="himachal/7n-8d-him.php" rel="bookmark"></a>
+												<a href="https://www.canva.com/design/DAF_8CDCM0k/J8g2MFeueInm1FsvT_dHeA/edit?utm_content=DAF_8CDCM0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="bookmark">Mallikarjuna Jyotirlinga Temple</a>
 											</h4></div>
-											<span class="post_date">7 NIGHTS 8 DAYS</span>
-											<p>Shimla (2 Nights) -  Manali (2 Nights) -  Dharmshala (1 Night)  -  Dalhousie (1 Night) -  Amritsar (1 Night)</p>
+											<span class="post_date">2 NIGHTS 3 DAYS</span>
+											<span class="post_time"><strong>Date : 23 April 2024 </strong></span>
+
+											<p><br><br><br></p>
 										</div>
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
-										<a href="himachal/7n-8d-him.php" class="read_more_button">VIEW MORE
+										<a href="https://www.canva.com/design/DAF_8CDCM0k/J8g2MFeueInm1FsvT_dHeA/edit?utm_content=DAF_8CDCM0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" class="read_more_button">VIEW MORE
 											<i class="fa fa-long-arrow-right"></i></a>
 										<div class="clear"></div>
 									</div>
@@ -458,11 +428,11 @@
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
-											<a href="uttarakhand/4n-5d-uk.php" class="travel_tour-LoopProduct-link">
+											<a href="kashmir\Tour-packages\3n-4d-kashmir-bliss.php" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 13,000 PP</span>
+												<span class="travel_tour-Price-amount amount">INR 17,950 PP</span>
 											</span>
-												<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
+												<img src="images/tour/kashmir-tour/magical kashmir.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -473,17 +443,59 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="uttarakhand/4n-5d-uk.php" rel="bookmark">Uttarakhand</a>
+												<a href="kashmir\Tour-packages\3n-4d-kashmir-bliss.php" rel="bookmark">Magical Kashmir</a>
+												
+												
 											</h4></div>
-											<span class="post_date">4 NIGHTS 5 DAYS</span>
-											<p>Nanital (2 Nights) - Kausani (1 Night) – Corbett (1 Night)<br><br></p>
+											<span class="post_date">04 NIGHTS / 05 DAYS</span>
+											<!-- <span class="post_time"><strong> Date : 24 May 2024</strong> </span> -->
+											<p>Srinagar (3 Nights)<br><br><br><br><br></p>
+											
 										</div>
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
-										<a href="uttarakhand/4n-5d-uk.php" class="read_more_button">VIEW MORE
+										<a href="kashmir\Tour-packages\3n-4d-kashmir-bliss.php" class="read_more_button">VIEW MORE
+											<i class="fa fa-long-arrow-right"></i></a>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>					
+							
+							<div class="item-tour">
+								<div class="item_border">
+									<div class="item_content">
+										<div class="post_images">
+											<a href="kashmir/Tour-packages/3n-4d-kashmir-bliss.php" class="travel_tour-LoopProduct-link">
+											<span class="price">
+												<span class="travel_tour-Price-amount amount">INR 15,250 PP</span>
+											</span>
+												<img src="images/tour/kashmir-tour/pexels-aadil-7650178.jpg" alt="" title="">
+												<br>
+											</a>
+											
+											<div class="group-icon">
+											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
+											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Private Cab"><i class="flaticon-cart-1"></i></a>
+											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Meals"><i class="flaticon-food"></i></a>
+											<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Sightseeing"><i class="flaticon-eye"></i></a>											
+										     </div>
+										</div>
+										<div class="wrapper_content">
+											<div class="post_title"><h4>
+												<a href="kashmir/Tour-packages/3n-4d-kashmir-bliss.php" rel="bookmark">Kashmir Bliss</a>
+											</h4></div>
+											<span class="post_date">03 NIGHTS / 04 DAYS</span>
+											<p>Srinagar (3 Nights)<br><br><br><br><br></p>
+										</div>
+									</div>
+									<div class="read_more">
+										<div class="item_rating">
+											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+										</div>
+										<a href="kashmir/Tour-packages/3n-4d-kashmir-bliss.php" class="read_more_button">VIEW MORE
 											<i class="fa fa-long-arrow-right"></i></a>
 										<div class="clear"></div>
 									</div>
@@ -493,11 +505,11 @@
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
-											<a href="uttarakhand/5n-6d-uk.php" class="travel_tour-LoopProduct-link">
+											<a href="kashmir/Tour-packages/5n-6d-explore-kashmir.php" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 15,000 PP</span>
+												<span class="travel_tour-Price-amount amount">INR 21,450 PP</span>
 											</span>
-												<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
+												<img src="images/tour/kashmir-tour/2.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -508,17 +520,17 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="uttarakhand/5n-6d-uk.php" rel="bookmark">Uttarakhand</a>
+												<a href="kashmir/Tour-packages/5n-6d-explore-kashmir.php" rel="bookmark">Explore Kashmir</a>
 											</h4></div>
 											<span class="post_date">5 NIGHTS 6 DAYS </span>
-											<p>Nanital (2 Nights) - Haridwar (1 Night) – Mussoorie (2 Nights)<br><br></p>
+											<p>Srinagar (1 Night) - Pahalgam (1 Night) - Srinagar (3 Nights)<br><br><br><br></p>
 										</div>
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
-										<a href="uttarakhand/5n-6d-uk.php" class="read_more_button">VIEW MORE
+										<a href="kashmir/Tour-packages/5n-6d-explore-kashmir.php" class="read_more_button">VIEW MORE
 											<i class="fa fa-long-arrow-right"></i></a>
 										<div class="clear"></div>
 									</div>
@@ -528,11 +540,11 @@
 								<div class="item_border">
 									<div class="item_content">
 										<div class="post_images">
-											<a href="uttarakhand/7n-8d-uk.php" class="travel_tour-LoopProduct-link">
+											<a href="kashmir/Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php" class="travel_tour-LoopProduct-link">
 											<span class="price">
-												<span class="travel_tour-Price-amount amount">INR 18,500 PP</span>
+												<span class="travel_tour-Price-amount amount">INR 30,100 PP</span>
  											</span>
-												<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
+												<img src="images/tour/kashmir-tour/5.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -543,17 +555,17 @@
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="uttarakhand/7n-8d-uk.php" rel="bookmark">Uttarakhand</a>
+												<a href="kashmir/Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php" rel="bookmark">Vaishnodevi Darshan with Kashmir</a>
 											</h4></div>
 											<span class="post_date"> 7 NIGHTS 8 DAYS</span>
-											<p>Mussoorie (2 Nights) - Haridwar (1 Night) - Nanital  (2 Nights) –  Kausani (1 Night)- Jim Corbett (1 Night)</p>
+											<p>Katra (2 Nights) - Pahalgam (2 Nights) - Gulmarg (1 Night) - Srinagar (1 Night) - Srinagar (1 Night)</p>
 										</div>
 									</div>
 									<div class="read_more">
 										<div class="item_rating">
 											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
 										</div>
-										<a href="uttarakhand/7n-8d-uk.php" class="read_more_button">VIEW MORE
+										<a href="kashmir/Tour-packages/7n-8d-Vaishnodevi-Darshan-Kashmir.php" class="read_more_button">VIEW MORE
 											<i class="fa fa-long-arrow-right"></i></a>
 										<div class="clear"></div>
 									</div>
