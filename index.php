@@ -219,7 +219,8 @@
 			<div class="row">
 					<div class="col-sm-12 mg-btn-6x">
 						<div class="shortcode_title title-center title-decoration-bottom-center">
-							<h3 class="title_primary">Payment Accepted</h3><span class="line_after_title"></span>
+						<button style="color: white;" type="button" class="btn btn-outline-primary"><h3 class="title_primary"><a href="checkout-payment.php">Payment Accepted</a></h3><span class="line_after_title"></span></button>
+							
 						</div>
 					</div>
 				</div>
