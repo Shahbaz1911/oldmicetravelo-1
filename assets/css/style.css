@@ -727,6 +727,13 @@ input[type=radio]:checked:before {
 		margin-bottom: -1px;
 	}
 }
+@media screen ( max-width: 600px){
+	.sk-ww-google-reviews {
+		width : 100%;
+		height : 100% ;
+	}
+
+}
 
 .shortcode_title {
 	color: #333;

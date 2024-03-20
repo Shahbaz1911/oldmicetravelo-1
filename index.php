@@ -156,6 +156,7 @@
 			</div>
 		</div>
 	</header>
+	
 	<div class="site wrapper-content">
 		<div class="home-content" role="main">
 			<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
@@ -202,6 +203,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<br>
 			<!-- <div class="wrapper-bg-video">
 				<video poster="video/video_slider3.png" playsinline autoplay muted loop>
 					<source src="video/330149744544.mp4" type="video/mp4">
@@ -212,11 +214,83 @@
 					<p><a href="#" class="btn btn-slider">VIEW TOURS </a></p>
 				</div>
 			</div> -->
+			
+			<div id="payment-accepted">
+			<div class="row">
+					<div class="col-sm-12 mg-btn-6x">
+						<div class="shortcode_title title-center title-decoration-bottom-center">
+							<h3 class="title_primary">Payment Accepted</h3><span class="line_after_title"></span>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+				<div class="wpb_column col-sm-3">
+						<div class="widget-icon-box widget-icon-box-base iconbox-center">
+							<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+								<span class="inner-icon"><i class="vc_icon_element-icon flaticon-credit card"></i><img src="images/icon/2.png" alt=""></span>
+							</div>
+							<div class="content-inner">
+								<div class="sc-heading article_heading">
+									<h4 class="heading__primary">UPI</h4></div>
+								<!-- <div class="desc-icon-box">
+									<div>Provides many travel Plan who are the best fit for your trip.</div>
+								</div> -->
+							</div>
+						</div>
+					</div>
+					<div class="wpb_column col-sm-3">
+						<div class="widget-icon-box widget-icon-box-base iconbox-center">
+							<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+								<span class="inner-icon"><i class="vc_icon_element-icon flaticon"></i><img src="images/icon/net-banking.png" alt=""></span>
+							</div>
+							<div class="content-inner">
+								<div class="sc-heading article_heading">
+									<h4 class="heading__primary">Net Banking</h4></div>
+								<!-- <div class="desc-icon-box">
+									<div>Provides many travel Plan who are the best fit for your trip.</div>
+								</div> -->
+							</div>
+						</div>
+					</div>
+					<div class="wpb_column col-sm-3">
+						<div class="widget-icon-box widget-icon-box-base iconbox-center">
+							<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+								<span class="inner-icon"><i class="vc_icon_element-icon flaticon"></i><img src="images/icon/debit-card.png" alt=""></span>
+							</div>
+							<div class="content-inner">
+								<div class="sc-heading article_heading">
+									<h4 class="heading__primary">Debit Card</h4></div>
+								<!-- <div class="desc-icon-box">
+									<div>Provides many travel Plan who are the best fit for your trip.</div>
+								</div> -->
+							</div>
+						</div>
+					</div>
+					<div class="wpb_column col-sm-3">
+						<div class="widget-icon-box widget-icon-box-base iconbox-center">
+							<div class="boxes-icon circle" style="font-size:30px;width:80px; height:80px;line-height:80px">
+								<span class="inner-icon"><i class="vc_icon_element-icon flaticon"></i><img src="images/icon/credit-card.png" alt=""></span>
+							</div>
+							<div class="content-inner">
+								<div class="sc-heading article_heading">
+									<h4 class="heading__primary">Credit Card</h4></div>
+								<!-- <div class="desc-icon-box">
+									<div>Provides many travel Plan who are the best fit for your trip.</div>
+								</div> -->
+							</div>
+						</div>
+					</div>
+
+				</div>
+				
+			</div>
+
 
 			<div class="slider-tour-booking">
 				<div class="container">
 					<div class="travel-booking-search hotel-booking-search travel-booking-style_1">
-						<form name="hb-search-form" action="tours.php" id="tourBookingForm">
+						<!-- <form name="hb-search-form" action="tours.php" id="tourBookingForm">
 							<ul class="hb-form-table">
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
@@ -266,10 +340,11 @@
 							</ul>
 							<input type="hidden" name="lang" value="">
 
-						</form>
+						</form> -->
 					</div>
 				</div>
 			</div>
+			<br><br><br><br>
 			<div class="container two-column-respon mg-top-6x mg-bt-6x">
 				<div class="row">
 					<div class="col-sm-12 mg-btn-6x">
@@ -395,7 +470,7 @@
 											<span class="price">
 												<span class="travel_tour-Price-amount amount">INR 26,500 PP</span>
 											</span>
-												<img src="images//tour/malikarjun/malikarjun-1.png" alt="" title="">
+												<img src="images/tour/malikarjun/malikarjun-1.png" alt="" title="">
 											</a>
 											<div class="group-icon">
 											<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="Hotel"><i class="flaticon-holidays"></i></a>
@@ -831,67 +906,19 @@
 					</div>
 				</div>
 			</div>
+			
+			<script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script>
+			
 
 			<div class="section-white padding-top-6x padding-bottom-6x">
 				<div class="container">
-					<div class="row">
-						<div class="col-sm-4">
-							<div class="shortcode_title title-center title-decoration-bottom-center">
+				<div class="shortcode_title title-center title-decoration-bottom-center">
 								<h2 class="title_primary">Tours Reviews</h2>
 								<span class="line_after_title"></span>
 							</div>
-							<div class="shortcode-tour-reviews wrapper-tours-slider">
-								<div class="tours-type-slider" data-autoplay="true" data-dots="true" data-nav="false" data-responsive='{"0":{"items":1}, "480":{"items":1}, "768":{"items":1}, "992":{"items":1}, "1200":{"items":1}}'>
-									<div class="tour-reviews-item">
-										<div class="reviews-item-info">
-											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
-											<div class="reviews-item-info-name">Prabhjeet Singh</div>
-											<div class="reviews-item-rating">
-												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-											</div>
-										</div>
-										<div class="reviews-item-content">
-											<h3 class="reviews-item-title">
-												<a href="#">Goa Tour</a>
-											</h3>
-											<div class="reviews-item-description">I had taken the package for goa from mice travelo experts.. and they had given me very nice package. one thing is about this company is that they are so rigid about their payment terms.</div>
-										</div>
-									</div>
-									<div class="tour-reviews-item">
-										<div class="reviews-item-info">
-											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
-											<div class="reviews-item-info-name">Harsh Kumar</div>
-											<div class="reviews-item-rating">
-												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-											</div>
-										</div>
-										<div class="reviews-item-content">
-											<h3 class="reviews-item-title">
-												<a href="#">Andaman and Nicobar Tour</a>
-											</h3>
-											<div class="reviews-item-description">Thanks Tanu Mam, for managing our Andaman trip so well. It was a nice experience. Hotels, food and all hospitality was good. Mice Travelo is a trustworthy and helping service provider.</div>
-										</div>
-									</div>
-									<div class="tour-reviews-item">
-										<div class="reviews-item-info">
-											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
-											<div class="reviews-item-info-name">Deepanjali Sharma</div>
-											<div class="reviews-item-rating">
-												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-											</div>
-										</div>
-										<div class="reviews-item-content">
-											<h3 class="reviews-item-title">
-												<a href="#">Vaishno Devi Tour</a>
-											</h3>
-											<div class="reviews-item-description">we booked a tour for vaishno devi from mice travelo expert . we were very happy with mice travelo  services and thanks for ms tanu who coordinate with us all time during the trip. Thanks to them</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-sm-8">
-							<div class="shortcode_title title-center title-decoration-bottom-center">
+				<iframe src='https://widgets.sociablekit.com/google-reviews/iframe/25384572' frameborder='0' width='100%' height='300px'></iframe>
+					<br><br>
+					<div class="shortcode_title title-center title-decoration-bottom-center">
 								<h2 class="title_primary">Latest Post</h2>
 								<span class="line_after_title"></span>
 							</div>
@@ -939,6 +966,63 @@
 									</div>
 								</div>
 							</div>
+					<div class="row">
+					
+						<div class="col-sm-4">
+						
+							
+							<!-- <div class="shortcode-tour-reviews wrapper-tours-slider">
+								<div class="tours-type-slider" data-autoplay="true" data-dots="true" data-nav="false" data-responsive='{"0":{"items":1}, "480":{"items":1}, "768":{"items":1}, "992":{"items":1}, "1200":{"items":1}}'>
+									<div class="tour-reviews-item">
+										<div class="reviews-item-info">
+											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
+											<div class="reviews-item-info-name">Prabhjeet Singh</div>
+											<div class="reviews-item-rating">
+												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+											</div>
+										</div>
+										<div class="reviews-item-content">
+											<h3 class="reviews-item-title">
+												<a href="#">Goa Tour</a>
+											</h3>
+											<div class="reviews-item-description">I had taken the package for goa from mice travelo experts.. and they had given me very nice package. one thing is about this company is that they are so rigid about their payment terms.</div>
+										</div>
+									</div>
+									<div class="tour-reviews-item">
+										<div class="reviews-item-info">
+											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
+											<div class="reviews-item-info-name">Harsh Kumar</div>
+											<div class="reviews-item-rating">
+												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+											</div>
+										</div>
+										<div class="reviews-item-content">
+											<h3 class="reviews-item-title">
+												<a href="#">Andaman and Nicobar Tour</a>
+											</h3>
+											<div class="reviews-item-description">Thanks Tanu Mam, for managing our Andaman trip so well. It was a nice experience. Hotels, food and all hospitality was good. Mice Travelo is a trustworthy and helping service provider.</div>
+										</div>
+									</div>
+									<div class="tour-reviews-item">
+										<div class="reviews-item-info">
+											<img alt="" src="images/avata.jpeg" class="avatar avatar-95 photo" height="90" width="90">
+											<div class="reviews-item-info-name">Deepanjali Sharma</div>
+											<div class="reviews-item-rating">
+												<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+											</div>
+										</div>
+										<div class="reviews-item-content">
+											<h3 class="reviews-item-title">
+												<a href="#">Vaishno Devi Tour</a>
+											</h3>
+											<div class="reviews-item-description">we booked a tour for vaishno devi from mice travelo expert . we were very happy with mice travelo  services and thanks for ms tanu who coordinate with us all time during the trip. Thanks to them</div>
+										</div>
+									</div>
+								</div>
+							</div> -->
+						</div>
+						<div class="col-sm-8">
+							
 						</div>
 					</div>
 				</div>
@@ -1055,6 +1139,7 @@
 	</div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<!-- <script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
 <script type='text/javascript' src='assets/js/jquery.min.js'></script>
 <script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
 <script type='text/javascript' src='assets/js/vendors.js'></script>
